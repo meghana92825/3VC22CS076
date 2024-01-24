@@ -4,3 +4,4 @@ void main()
   printf("c program");
   getch();
 }
+hello git and git hub
